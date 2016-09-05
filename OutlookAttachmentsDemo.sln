@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAttachmentsDemo", "OutlookAttachmentsDemo\OutlookAttachmentsDemo.csproj", "{5354DABA-62D2-4B0A-B40B-FA76BD1E9751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAttachmentsDemoWeb", "OutlookAttachmentsDemoWeb\OutlookAttachmentsDemoWeb.csproj", "{EDBED1C8-C19C-44F1-9DF4-D1B1C6D70854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAttachmentsDemoService", "OutlookAttachmentsDemoService\OutlookAttachmentsDemoService.csproj", "{7CC364A1-7D63-449A-8504-AF303F2F9126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5354DABA-62D2-4B0A-B40B-FA76BD1E9751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5354DABA-62D2-4B0A-B40B-FA76BD1E9751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5354DABA-62D2-4B0A-B40B-FA76BD1E9751}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5354DABA-62D2-4B0A-B40B-FA76BD1E9751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5354DABA-62D2-4B0A-B40B-FA76BD1E9751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5354DABA-62D2-4B0A-B40B-FA76BD1E9751}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EDBED1C8-C19C-44F1-9DF4-D1B1C6D70854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBED1C8-C19C-44F1-9DF4-D1B1C6D70854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBED1C8-C19C-44F1-9DF4-D1B1C6D70854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBED1C8-C19C-44F1-9DF4-D1B1C6D70854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC364A1-7D63-449A-8504-AF303F2F9126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC364A1-7D63-449A-8504-AF303F2F9126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC364A1-7D63-449A-8504-AF303F2F9126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC364A1-7D63-449A-8504-AF303F2F9126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
